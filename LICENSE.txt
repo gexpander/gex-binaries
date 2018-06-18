@@ -1,0 +1,3 @@
+Those are pre-built binaries of other GEX projects, 
+and are governed by the same licenses as the respective source repositories
+(typically Mozilla Public License v2).
